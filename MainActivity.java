@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         zero0 = findViewById(R.id.zero);
         dot = findViewById(R.id.dot);
         eq = findViewById(R.id.eq);
-        
+
         disp = findViewById(R.id.disp);
         arrow.setOnClickListener(this);
         ce.setOnClickListener(this);
